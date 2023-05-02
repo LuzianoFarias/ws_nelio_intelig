@@ -1,8 +1,8 @@
-package secao4;
+package exercicioFixacao;
 
 import java.util.Locale;
 
-public class ExercicioFixacao {
+public class ExercicioFixacao1 {
     public static void main(String[] args){
 
         String product1 = "Computer";
